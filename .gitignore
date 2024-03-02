@@ -1,0 +1,12 @@
+venv/
+env/
+__pycache__/
+*.pyc
+
+settings.json
+logs/*.csv
+logs/error_log.txt
+.env
+.vscode
+.tools-versions
+db.sqlite3
